@@ -1,0 +1,58 @@
+body.landing {
+    background: linear-gradient(rgba(0, 0, 150, 0.8), rgba(0, 0, 150, 0.8)), url('../images/dyci_bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    min-height: 100vh;
+}
+
+.overlay {
+    text-align: center;
+    padding-top: 40px;
+    min-height: 100vh;
+}
+
+.logo {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #FFD700;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 30px 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.user-options {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 60px;
+}
+
+.user-box {
+    text-align: center;
+}
+
+.user-box img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+    filter: brightness(0) invert(1);
+}
+
+.proceed-btn {
+    display: inline-block;
+    background: #0044ff;
+    padding: 15px 30px;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    min-width: 150px;
+    font-size: 18px;
+}
+  
