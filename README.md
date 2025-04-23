@@ -9,7 +9,6 @@ admin123
 
 # DYCI Touring System
 
-A web-based touring system for Don Bosco Technical Institute.
 
 ## Requirements
 
